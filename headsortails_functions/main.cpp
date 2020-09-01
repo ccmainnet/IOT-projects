@@ -5,7 +5,7 @@
 //  Created by Bob on 01/09/2020.
 //  Copyright © 2020 CCMainnet. All rights reserved.
 //  Just anaother way of coding, possible even more is possible ;)
-//  modified 01092020
+//  modified 01092020 17:19
 
 #include <iostream>
 #include <ctime>

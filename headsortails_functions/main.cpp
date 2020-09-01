@@ -6,6 +6,7 @@
 //  Copyright © 2020 CCMainnet. All rights reserved.
 //  Just anaother way of coding, possible even more is possible ;)
 //  modified
+
 #include <iostream>
 #include <ctime>
 using namespace std;

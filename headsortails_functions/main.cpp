@@ -4,7 +4,7 @@
 //
 //  Created by Bob on 01/09/2020.
 //  Copyright © 2020 CCMainnet. All rights reserved.
-//  Just anaother way of coding, possible even more is possible ;)...
+//  Just anaother way of coding, possible even more is possible ;)...-->
 
 #include <iostream>
 #include <ctime>

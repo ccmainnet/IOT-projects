@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		68C0A94724D8602A00266675 /* Heads or Tails */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Heads or Tails"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68C0A94A24D8602A00266675 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		68F91A2B2500F9140023F86D /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		68C0A93E24D8602A00266675 = {
 			isa = PBXGroup;
 			children = (
+				68F91A2B2500F9140023F86D /* Readme.md */,
 				68C0A94924D8602A00266675 /* Heads or Tails */,
 				68C0A94824D8602A00266675 /* Products */,
 			);

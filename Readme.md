@@ -1,6 +1,9 @@
 # Heads or Tails
 This project is one of my first projects following courses in IvanOnTech Academy C++
 The project simulates Heads or Tails game. After starting the game player must select H(eads) OR T(ails). After showing the result of the flip of the coin, player is asked to play again or end the game.
+## Description
+Made two versions of the "game" The first (Heads or Tails) with code written out.
+The second one (headsortails_functions) same program only with more functions and room for improvement ;)
 ## Installation
 There is no installation involved as this is just code
 ## Usage

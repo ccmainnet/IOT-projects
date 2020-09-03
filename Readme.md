@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# Heads or Tails
 This project is one of my first projects following courses in IvanOnTech Academy C++
 The project simulates Heads or Tails game. After starting the game player must select H(eads) OR T(ails). After showing the result of the flip of the coin, player is asked to play again or end the game.
 ## Installation
